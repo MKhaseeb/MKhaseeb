@@ -1,7 +1,7 @@
 # Hi, I'm **Mohammad Khaseeb** 👋  
 
 I'm an 18-year-old aspiring **Full Stack Developer** 🚀, currently learning at **AXSOS Academy** 📚.  
-Passionate about coding, I'm constantly improving my skills to become a **Senior Developer** 💻 and work on amazing projects!  
+Passionate about coding, I'm constantly improving my skills to become a skilled developer 💻 and work on amazing projects in the future!
 
 ---
 
