@@ -1,6 +1,6 @@
 # Hi, I'm **Mohammad Khaseeb** 👋  
 
-I'm an 18-year-old aspiring **Full Stack Developer** 🚀, currently learning at **AXSOS Academy** 📚.  
+I'm an 19-year-old aspiring **Full Stack Developer** 🚀, currently learning at **AXSOS Academy** 📚.  
 Passionate about coding, I'm constantly improving my skills to become a skilled developer 💻 and work on amazing projects in the future!
 
 ---
@@ -29,6 +29,14 @@ To build dynamic, responsive web applications and gain the experience to become 
 
 ## 📬 **How to Reach Me:**  
 📧 **Email**: [Mkhaseeb84@gmail.com](mailto:Mkhaseeb84@gmail.com)  
+
+---
+
+## 📊 **GitHub Stats**
+
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mkhaseeb&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhaseeb&layout=compact&theme=radical)
 
 ---
 
