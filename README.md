@@ -9,7 +9,8 @@ Passionate about coding, I'm constantly improving my skills to become a skilled 
 - **JavaScript (JS)** ⚙️  
 - **HTML** 📄  
 - **CSS** 🎨  
-- **Python** 🐍  
+- **Python** 🐍
+- **Java** ☕
 - **SQL** 🗄️  
 
 ---
