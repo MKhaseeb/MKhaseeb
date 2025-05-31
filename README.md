@@ -32,12 +32,5 @@ To build dynamic, responsive web applications and gain the experience to become 
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mkhaseeb&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhaseeb&layout=compact&theme=radical)
-
----
 
 Let's connect and build something amazing! 🤝  
