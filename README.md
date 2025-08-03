@@ -1,34 +1,33 @@
-# Hi, I'm **Mohammad Khaseeb** 👋  
+# 👋 Hello! I'm Mohammad Khaseeb
 
-I'm a 19-year-old aspiring **Full Stack Developer** 🚀, currently learning at **AXSOS Academy** 📚.  
-Passionate about coding, I'm constantly improving my skills to become a skilled developer 💻 and work on amazing projects in the future!
-
----
-
-## 🌱 **What I've Learned So Far:**  
-- **JavaScript (JS)** ⚙️  
-- **HTML** 📄  
-- **CSS** 🎨  
-- **Python** 🐍  
-- **Java** ☕  
-- **SQL** 🗄️  
+I'm a 19-year-old **aspiring Full Stack Developer** 🚀 currently honing my skills at **AXSOS Academy**.  
+With a passion for coding and problem-solving, I’m dedicated to building dynamic and scalable web applications that make a real impact.
 
 ---
 
-## 🔧 **Technologies & Tools I Work With:**  
-- **Frontend**: HTML, CSS, JavaScript 🌐  
-- **Backend**: Python, SQL (currently learning more!) 🔄  
-- **Version Control**: Git, GitHub 📂  
-- **Frameworks**: *(currently exploring)*  
+## 🌱 What I've Learned So Far  
+- **Languages:** JavaScript, Python, Java, SQL  
+- **Web Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+- **Databases:** SQL, MongoDB (NoSQL)  
+- **Version Control:** Git, GitHub  
 
 ---
 
-## 💡 **My Goal:**  
-To build dynamic, responsive web applications and gain the experience to become a **senior developer** in the industry! 🌟  
+## 🔧 Technologies & Tools I’m Working With  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express, Python, **Java (Spring Boot)**  
+- **Database:** MongoDB, SQL  
+- **Others:** VS Code, Postman, Git & GitHub  
 
 ---
 
-## 💻 **GitHub Stats**
+## 🎯 My Goals  
+I’m focused on growing into a proficient full stack developer capable of designing seamless user experiences and efficient backend systems.  
+Long-term, I aim to become a **senior developer** and contribute to innovative, impactful projects in the tech industry.
+
+---
+
+## 📈 GitHub Stats
 
 ![Mohammad Khaseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mkhaseeb&show_icons=true&theme=radical)
 
@@ -36,9 +35,10 @@ To build dynamic, responsive web applications and gain the experience to become 
 
 ---
 
-## 📬 **How to Reach Me:**  
-📧 **Email**: [Mkhaseeb84@gmail.com](mailto:Mkhaseeb84@gmail.com)  
+## 📫 Get In Touch  
+Feel free to reach out!  
+📧 Email: [Mkhaseeb84@gmail.com](mailto:Mkhaseeb84@gmail.com)  
 
 ---
 
-Let's connect and build something amazing! 🤝  
+Let’s connect, collaborate, and create something awesome! 🚀
